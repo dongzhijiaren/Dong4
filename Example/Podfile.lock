@@ -1,0 +1,16 @@
+PODS:
+  - Dong4 (0.1.0)
+
+DEPENDENCIES:
+  - Dong4 (from `../`)
+
+EXTERNAL SOURCES:
+  Dong4:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Dong4: fdd62cba6fa971f515324bdf6cde832eeba1f366
+
+PODFILE CHECKSUM: 096e3aae0075e38899bdd138b46464d8df6657c7
+
+COCOAPODS: 1.8.4

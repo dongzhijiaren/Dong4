@@ -1,0 +1,22 @@
+{
+  "name": "Dong4",
+  "version": "0.1.0",
+  "summary": "Dong4.",
+  "description": "Dong4测试。。。。。",
+  "homepage": "https://github.com/dongzhijiaren/Dong4",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "dongzhijiaren": "gogoxiaodong@126.com"
+  },
+  "source": {
+    "git": "https://github.com/dongzhijiaren/Dong4.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "Dong4/Classes/**/*"
+}
